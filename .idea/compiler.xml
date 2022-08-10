@@ -9,8 +9,8 @@
         <module name="pptxdecrypt" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="pptxdecrypt" target="17" />
+    <bytecodeTargetLevel target="8">
+      <module name="pptxdecrypt" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
